@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "90-day-homebuying-planner",
+    "title": "90-Day Homebuying Project Planner",
+    "category": "Buying",
+    "description": "A flexible 90-day framework for preparation, search and your next decisions.",
+    "available": true,
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  },
+  {
+    "slug": "home-selling-checklist",
+    "title": "Home Selling Project Checklist",
+    "category": "Selling",
+    "description": "Organize preparation, documents and your path to market.",
+    "available": true,
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  },
+  {
+    "slug": "property-decision-matrix",
+    "title": "Property Decision Matrix",
+    "category": "Buying",
+    "description": "Compare properties against the priorities that matter to you.",
+    "available": true,
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  },
+  {
+    "slug": "closing-costs-guide",
+    "title": "Closing Costs Worksheet",
+    "category": "Buying",
+    "description": "A place to collect estimates and questions for your closing team.",
+    "available": true,
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  },
+  {
+    "slug": "neighborhood-comparison-guide",
+    "title": "Neighborhood Comparison Guide",
+    "category": "Neighborhoods",
+    "description": "Turn your community shortlist into a practical research plan.",
+    "available": true,
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  },
+  {
+    "slug": "investor-deal-analyzer",
+    "title": "Investor Deal Analyzer",
+    "category": "Investing",
+    "description": "A future tool for testing operating assumptions and scenarios.",
+    "available": false,
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  },
+  {
+    "slug": "relocation-planning-guide",
+    "title": "Relocation Planning Guide",
+    "category": "Buying",
+    "description": "Coordinate the logistics and decisions of a move to Central Florida.",
+    "available": true,
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  },
+  {
+    "slug": "new-construction-checklist",
+    "title": "New Construction Checklist",
+    "category": "Buying",
+    "description": "Questions to bring to your builder, lender and inspection team.",
+    "available": true,
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  }
+]

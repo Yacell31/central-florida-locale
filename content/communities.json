@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "kissimmee",
+    "name": "Kissimmee",
+    "type": "City",
+    "summary": "A place to explore your possibilities.",
+    "note": "Osceola County",
+    "image": "/images/community-1.jpg",
+    "propertyTypes": "Explore detached homes, townhomes and condominiums by address.",
+    "considerations": "Verify rental restrictions, flood exposure, insurance and association obligations for each property.",
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  },
+  {
+    "slug": "st-cloud",
+    "name": "St. Cloud",
+    "type": "City",
+    "summary": "Room for a thoughtfully planned next chapter.",
+    "note": "Osceola County",
+    "image": "/images/community-2.jpg",
+    "propertyTypes": "Compare established homes and new-construction options.",
+    "considerations": "Check build-out plans, road access, utilities and the full cost of ownership.",
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  },
+  {
+    "slug": "lake-nona",
+    "name": "Lake Nona",
+    "type": "District",
+    "summary": "A fresh perspective on connected living.",
+    "note": "Orlando area",
+    "image": "/images/community-3.jpg",
+    "propertyTypes": "Compare individual neighborhoods rather than assuming one housing profile.",
+    "considerations": "Confirm school assignments, association fees and commute routes for the specific address.",
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  },
+  {
+    "slug": "winter-garden",
+    "name": "Winter Garden",
+    "type": "City",
+    "summary": "Discover the details that make a place yours.",
+    "note": "Orange County",
+    "image": "/images/community-4.jpg",
+    "propertyTypes": "Explore different home ages, property types and neighborhood settings.",
+    "considerations": "Distinguish city boundaries from mailing addresses and investigate future development.",
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null
+  }
+]
