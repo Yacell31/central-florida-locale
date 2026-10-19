@@ -1,12 +1,12 @@
 @import "tailwindcss";
 :root {
-  --green: #18392f;
+  --green: #41354C;
   --sand: #e8dcc8;
   --ivory: #f8f5ef;
   --terra: #c76d4d;
   --terra-text: #97432d;
   --ink: #28231f;
-  --sage: #9ead98;
+  --sage:#5A4B67;
   --line: #dedbd2;
   --muted: #615f55;
   --serif: var(--font-serif), Georgia, serif;
