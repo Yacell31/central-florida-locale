@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "understanding-the-market",
+    "title": "How to Read a Local Market Report",
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null,
+    "metrics": null,
+    "description": "A number becomes useful when you understand its source, time period and scope.",
+    "sections": [
+      {
+        "title": "Start with the geography",
+        "body": "Check the exact area covered and whether the report reflects a city, county, ZIP code or subdivision. These are not interchangeable."
+      },
+      {
+        "title": "Look at the reporting period",
+        "body": "A monthly figure, year-to-date figure and rolling average answer different questions. Check publication dates and note whether data may be revised."
+      },
+      {
+        "title": "Understand the measure",
+        "body": "Median sale price is the middle sale in a defined group; it is not the value of a particular home. Days on market and inventory measures depend on reporting definitions."
+      },
+      {
+        "title": "Bring the question back to your plan",
+        "body": "Broad trends provide context. A purchase or sale still needs property-specific research and a strategy that reflects your circumstances."
+      }
+    ]
+  }
+]

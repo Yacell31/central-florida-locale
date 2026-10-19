@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "homebuying-milestones",
+    "title": "The milestones of buying a home in Florida",
+    "category": "Buying",
+    "description": "A thoughtful roadmap from your first questions to the closing table.",
+    "image": "/images/living.jpg",
+    "read": "6 min read",
+    "sections": [
+      {
+        "title": "Start with the decision, not the listing",
+        "body": "Before browsing homes, write down why you want to move, what your monthly budget must support and which priorities are flexible. Keep a separate list of must-haves and preferences. This makes it easier to evaluate tradeoffs when an appealing property appears."
+      },
+      {
+        "title": "Build your team and your timeline",
+        "body": "Discuss financing with a qualified lender before making commitments. Ask what documents are needed, what could change your approval and how much cash to reserve beyond a down payment. Map your intended move date backward, allowing time for due diligence and unexpected delays."
+      },
+      {
+        "title": "Make due diligence a deliberate phase",
+        "body": "An accepted offer begins a new set of decisions. Track the dates in your actual contract, arrange appropriate inspections and review insurance, title and association documents with qualified professionals. Contract terms vary; use your signed agreement rather than a generic online timeline."
+      },
+      {
+        "title": "Prepare for closing and the handoff",
+        "body": "Confirm final figures with your closing team, verify wiring instructions through a known phone number and plan utilities and access. Keep your closing documents organized. A good finish includes knowing who to contact when a question comes up after you receive the keys."
+      }
+    ],
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null,
+    "author": "Central Florida Locale",
+    "publishedAt": null,
+    "updatedAt": null,
+    "relatedCommunities": ["kissimmee", "st-cloud"],
+    "relatedResources": ["90-day-homebuying-planner"]
+  },
+  {
+    "slug": "understanding-hoa-cdd",
+    "title": "HOA and CDD fees: what to ask before you buy",
+    "category": "Buying",
+    "description": "Look beyond the purchase price to understand the whole picture.",
+    "image": "/images/detail.jpg",
+    "read": "5 min read",
+    "sections": [
+      {
+        "title": "Separate the different obligations",
+        "body": "An association fee and a community development district assessment are different obligations. A property may have one, both or neither. Request current documents for the exact address and ask your closing team to explain how each charge is billed."
+      },
+      {
+        "title": "Ask what can change",
+        "body": "Review the available budget, reserves, assessment history and governing documents. Ask about pending projects and special assessments. Do not rely on a listing summary as the complete explanation of your obligations."
+      },
+      {
+        "title": "Compare total ownership costs",
+        "body": "Add financing, taxes, insurance, maintenance and association or district charges to your budget. Clarify which costs are estimates. A lower asking price does not necessarily mean a lower monthly cost."
+      }
+    ],
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null,
+    "author": "Central Florida Locale",
+    "publishedAt": null,
+    "updatedAt": null,
+    "relatedCommunities": ["kissimmee", "st-cloud"],
+    "relatedResources": ["90-day-homebuying-planner"]
+  },
+  {
+    "slug": "prepare-to-sell",
+    "title": "Before the sign goes up: a calmer way to prepare",
+    "category": "Selling",
+    "description": "Prioritize the work that supports your sale, without doing everything.",
+    "image": "/images/interior.jpg",
+    "read": "7 min read",
+    "sections": [
+      {
+        "title": "Define your selling priorities",
+        "body": "Start with your target timing, financial needs and plans after the sale. The right preparation depends on your circumstances. Make these priorities explicit before deciding which projects to take on."
+      },
+      {
+        "title": "Separate essential work from optional work",
+        "body": "Create three lists: issues to investigate, presentation improvements and optional upgrades. Get estimates before committing. Discuss likely buyer expectations with a local professional; no renovation guarantees a return."
+      },
+      {
+        "title": "Create a practical launch plan",
+        "body": "Coordinate preparation, photography, pricing review and showing availability. Keep a decision log so you can revisit assumptions as feedback arrives. The objective is an informed strategy, not a rush to market."
+      }
+    ],
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null,
+    "author": "Central Florida Locale",
+    "publishedAt": null,
+    "updatedAt": null,
+    "relatedCommunities": ["kissimmee", "st-cloud"],
+    "relatedResources": ["home-selling-checklist"]
+  },
+  {
+    "slug": "compare-neighborhoods",
+    "title": "A better way to compare your neighborhood shortlist",
+    "category": "Neighborhoods",
+    "description": "Replace a long list of favorites with a clear set of priorities.",
+    "image": "/images/community-2.jpg",
+    "read": "4 min read",
+    "sections": [
+      {
+        "title": "Choose the criteria before the favorite",
+        "body": "Identify the locations you need to reach, the property types you will consider and the costs your budget can sustain. Weight these criteria before touring so the comparison remains grounded in your goals."
+      },
+      {
+        "title": "Investigate the exact address",
+        "body": "A community name can cover different associations, school boundaries, infrastructure and property conditions. Verify details at property level. Visit at the times that matter to your own routine and test actual routes."
+      },
+      {
+        "title": "Document what you still do not know",
+        "body": "For every option, record questions, sources and the date you checked them. An unanswered question should remain visible rather than turning into an assumption. Use your shortlist to guide the next round of research."
+      }
+    ],
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null,
+    "author": "Central Florida Locale",
+    "publishedAt": null,
+    "updatedAt": null,
+    "relatedCommunities": ["kissimmee", "st-cloud"],
+    "relatedResources": ["90-day-homebuying-planner"]
+  },
+  {
+    "slug": "investment-first-questions",
+    "title": "Before the numbers: define your investment criteria",
+    "category": "Investing",
+    "description": "Start with a strategy, then test the assumptions behind a deal.",
+    "image": "/images/home.jpg",
+    "read": "5 min read",
+    "sections": [
+      {
+        "title": "Define the purpose of the investment",
+        "body": "Write down your holding period, available capital, risk tolerance and expected management involvement. A property that works for one strategy may be unsuitable for another."
+      },
+      {
+        "title": "Verify the operating assumptions",
+        "body": "Investigate rental permissions, insurance, taxes, maintenance, vacancy and management costs. Use evidence for income assumptions and test what happens if costs rise or occupancy falls."
+      },
+      {
+        "title": "Use qualified advice",
+        "body": "Review legal, financing and tax questions with appropriate professionals. A simple spreadsheet can organize a decision, but it cannot establish that an investment is suitable or guarantee performance."
+      }
+    ],
+    "status": "published",
+    "sources": [],
+    "verifiedAt": null,
+    "author": "Central Florida Locale",
+    "publishedAt": null,
+    "updatedAt": null,
+    "relatedCommunities": ["kissimmee", "st-cloud"],
+    "relatedResources": ["90-day-homebuying-planner"]
+  }
+]
