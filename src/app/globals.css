@@ -128,41 +128,15 @@ em {
   gap: 35px;
 }
 .logo {
-  width: 147px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  position: relative;
-  line-height: 1;
-  color: var(--green);
+  width: 165px;
+  display: block;
   flex-shrink: 0;
+  line-height: 0;
 }
-.logo > span {
-  font-family: var(--serif);
-  font-size: 18px;
-  letter-spacing: 2px;
-}
-.logo strong {
-  font-family: var(--serif);
-  font-weight: 400;
-  font-size: 29px;
-  letter-spacing: 1px;
-  line-height: 0.95;
-}
-.logo small {
-  font-size: 9px;
-  letter-spacing: 3px;
-  margin-top: 7px;
-  margin-left: 3px;
-}
-.logo i {
-  position: absolute;
-  left: -13px;
-  top: 24px;
-  width: 37px;
-  height: 1px;
-  background: var(--terra);
-  transform: rotate(-38deg);
+.logo img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 .desktop-nav {
   display: flex;
@@ -910,8 +884,7 @@ footer {
   padding-block: 58px 40px;
 }
 .footer-brand .logo {
-  align-items: flex-start;
-  margin-left: 12px;
+  margin-left: 0;
 }
 .footer-brand p {
   font-size: 11px;
@@ -1620,15 +1593,6 @@ footer {
   .logo {
     width: 118px;
   }
-  .logo strong {
-    font-size: 25px;
-  }
-  .logo > span {
-    font-size: 15px;
-  }
-  .logo small {
-    font-size: 8px;
-  }
   .header-inner {
     gap: 12px;
   }
@@ -1779,21 +1743,6 @@ footer {
   }
   .logo {
     width: 115px;
-  }
-  .logo > span {
-    font-size: 14px;
-  }
-  .logo strong {
-    font-size: 24px;
-  }
-  .logo small {
-    font-size: 7px;
-    margin-top: 5px;
-  }
-  .logo i {
-    left: -9px;
-    top: 19px;
-    width: 28px;
   }
   .home-hero {
     min-height: 610px;

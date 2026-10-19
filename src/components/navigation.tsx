@@ -2,14 +2,18 @@
 import { navigation } from "@/lib/content";
 import { ArrowUpRight, Menu, Search, X } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
+import brandLogo from "../../public/images/brand-logo.png";
 import { useEffect, useRef, useState } from "react";
 export function Logo() {
   return (
     <Link href="/" className="logo" title="Central Florida Locale — home">
-      <span>CENTRAL</span>
-      <strong>FLORIDA</strong>
-      <small>LOCALE</small>
-      <i />
+      <Image
+        src={brandLogo}
+        alt="Central Florida Locale"
+        sizes="(max-width: 900px) 118px, 165px"
+        loading="eager"
+      />
     </Link>
   );
 }
